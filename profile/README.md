@@ -7,6 +7,8 @@ Leveraging the physical constraints of the tokens, the relationship between the 
 
 By placing the tokens on the sensing board, the corresponding pages in the web interface will be opened. You can either look at individual tokens or combinations. 
 
+<img src="https://github.com/MixMatchMLtoolkit/.github/blob/main/allparts.jpg" alt="Photo of the toolkits with token box" width="600"/>
+
 ## Open source toolkit
 We make all the required files needed for making your own set of tokens and sensing board open source, together with instructions. The code for the web interface can also be found in this repository, and if needed personalized.
 However, when no changes are needed you can make your own sensing board and connect it to the web interface that is already online.
