@@ -15,6 +15,12 @@ However, when no changes are needed you can make your own sensing board and conn
 
 When making the toolkit....
 
+### Instructions
+Instructions and files for making your own toolkit can be found [here](https://github.com/MixMatchMLtoolkit/DIY-toolkit)
+
+### Web interface
+The web interface can also be used without a toolkit. In that case you can press 'skip connection' and use the menu in the top right.
+
 ## Licensing/ reference
 
 
