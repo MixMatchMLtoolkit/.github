@@ -18,7 +18,9 @@ When making the toolkit....
 ### Instructions
 Instructions and files for making your own toolkit can be found [here](https://github.com/MixMatchMLtoolkit/DIY-toolkit)
 
-### Web interface
+### [Web interface](https://mixmatchmltoolkit.github.io/)
+
+<img src="https://github.com/MixMatchMLtoolkit/.github/blob/main/webinterface.JPG" alt="Photo of the toolkits with token box" width="600"/>
 The web interface can also be used without a toolkit. In that case you can press 'skip connection' and use the menu in the top right.
 
 ## Licensing/ reference
