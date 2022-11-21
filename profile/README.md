@@ -23,6 +23,32 @@ Instructions and files for making your own toolkit can be found [here](https://g
 <img src="https://github.com/MixMatchMLtoolkit/.github/blob/main/webinterface.JPG" alt="Photo of the toolkits with token box" width="600"/>
 The web interface can also be used without a toolkit. In that case you can press 'skip connection' and use the menu in the top right.
 
+## Version used in TEI paper 2022
+The Mix & Match ML toolkit has been updated after the studies presented in the TEI paper. The version of the webinterface used in the two research studies can still be found [here](https://mixmatchmltoolkit.github.io/research/) as well the [source code](https://github.com/MixMatchMLtoolkit/MixMatchMLtoolkit.github.io/tree/main/research). 
+
+<b>Summary of changes to the current version (21/11/2022)</b>
+<ul>
+<li>Option to choose for educational mode or minimal mode (some information collapsed) </li>
+<li>Disclaimers on each page that data, models and examples are from the public domain and might contain biases </li>
+<li>New images for all data types </li>
+<li>Data page layout revised: short explanation with additonal more information </li>
+<li>ML capablity  page layout revised: order capabilities & limitations and examples switched </li>
+<li>Definition categorize and identify updated to include examples for clarification </li>
+<li>Example application Image + Categorize updated from Google Lens to ObsIdentify  </li>
+<li>Example application Table + Categorize updated from Spotify to Palmer penguins </li>
+<li>Examples applications added for Table + Communicate, Table + Understand and Table + Translate </li>
+<li>Addition of a tangible connector token with whiteboard top that can connect two ML capabilties </li>
+<li><i>A compare modus for the sensing board (not yet fully functional, see work in progress)</i> </li>
+
+</ul>
+
+## Work in progess
+We are still working on improving toolkit. Currenlty we are working on including/ optimizing the following aspects:
+<ul>
+<li>Improving the reliablity of the compare modus </li>
+<li>Including working example ML models in the web interface</li>
+</ul>
+
 ## Licensing/ reference
 
 
