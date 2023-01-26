@@ -26,7 +26,7 @@ However, when no changes are needed you can make your own sensing board and conn
 Instructions and files for making your own toolkit can be found [here](https://github.com/MixMatchMLtoolkit/DIY-toolkit)
 
 
-## Version used in TEI paper 2022
+## Version used in TEI paper 2023
 The Mix & Match ML toolkit has been updated after the studies presented in the TEI paper. The version of the webinterface used in the two research studies can still be found [here](https://mixmatchmltoolkit.github.io/research/) as well the [source code](https://github.com/MixMatchMLtoolkit/MixMatchMLtoolkit.github.io/tree/main/research). 
 
 <b>Summary of changes to the current version (21/11/2022)</b>
