@@ -38,8 +38,12 @@ The Mix & Match ML toolkit has been updated after the studies presented in the T
 <li>ML capablity  page layout revised: order capabilities & limitations and examples switched </li>
 <li>Definition categorize and identify updated to include examples for clarification </li>
 <li>Example application Image + Categorize updated from Google Lens to ObsIdentify  </li>
+<li>Example application Image + Foresee updated from LikelyAI (offline) to FloodHub </li>
 <li>Example application Table + Categorize updated from Spotify to Palmer penguins </li>
+<li>Example application Image + translate updated from Deepart (offline) to Deep dream generator </li>
 <li>Examples applications added for Table + Communicate, Table + Understand and Table + Translate </li>
+<li>New images for some copyrighted images</li>
+
 <li>Addition of a tangible connector token with whiteboard top that can connect two ML capabilties </li>
 <li><i>A compare modus for the sensing board (not yet fully functional, see work in progress)</i> </li>
 
@@ -49,7 +53,8 @@ The Mix & Match ML toolkit has been updated after the studies presented in the T
 We are still working on improving toolkit. Currenlty we are working on including/ optimizing the following aspects:
 <ul>
 <li>Improving the reliablity of the compare modus </li>
-<li>Including working example ML models in the web interface</li>
+<li>Including interactive example ML models in the web interface</li>
+<li>Including instructions for how to achieve the examples using Weka </li>
 </ul>
 
 ## Contributors
