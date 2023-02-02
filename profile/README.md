@@ -1,7 +1,8 @@
 # Mix & Match Machine Learning toolkit
 Welcome to the GitHub repository of the Mix & Match ML toolkit!
 
-The Mix & Match ML toolkit is a toolkit that provides relevant ML knowledge to designers/design students to help them both learn about ML and envision ML-enabled solutions. This hybrid toolkit consists of a set of tangible tokens, a sensing board and a web interface. The tangible tokens represent different data types and ML capabilities, which together showcase the potentials and limitations of ML. Through the physical constraints of the tokens, the user understands the relationships between the different types of data, i.e. labeled and unlabeled, and the learning approaches underlying each capability, i.e. supervised, unsupervised or reinforcement learning.
+The Mix & Match ML toolkit is a toolkit that provides relevant ML knowledge to designers/design students to help them both learn about ML and envision ML-enabled solutions. This hybrid toolkit consists of a set of tangible tokens, a sensing board and a web interface. The tangible tokens represent different data types and ML capabilities, which together showcase the potentials and limitations of ML. Through the physical constraints of the tokens, the user understands the relationships between the different types of data, i.e. labeled and unlabeled, and the learning approaches underlying each capability, i.e. supervised, unsupervised or reinforcement learning. 
+The physical constraints of the tokens guide the user in understanding what types of training data (labeled or unlabeled) can be used with each ML capability, depending on its underlying learning approach (supervised, unsupervised or reinforcement learning).
 
 By placing the tokens on the sensing board, the corresponding pages in the web interface will be opened. You can either look at individual tokens or combinations.
 
@@ -16,16 +17,17 @@ By placing the tokens on the sensing board, the corresponding pages in the web i
 The web interface can also be used without a toolkit. In that case you can press 'skip connection' and use the menu in the top right.
 
 ## Open source toolkit
-We make all the required files needed for making your own set of tokens and sensing board open source, together with instructions. The code for the web interface can also be found in this repository, and if needed personalized.
-However, when no changes are needed you can make your own sensing board and connect it to the web interface that is already online.
+All the required files needed to make your own set of tokens and sensing board are open source. You can find instructions on how to build your Mix&Match ML toolkit below. The code for the web interface is also open source and can be found in this repository. That means you can personalize the contents and examples in the toolkit. When no changes are needed to the code, you can just make your own sensing board and connect it to the web interface that is already online.
 
+Please note that this toolkit is shared under CC license (CC BY-NC-SA 4.0). If you use or adapt this toolkit, we would like to hear about your experience, please get in touch!
 
 ### Instructions
 Instructions and files for making your own toolkit can be found [here](https://github.com/MixMatchMLtoolkit/DIY-toolkit)
 
 
 ## Version used in TEI paper 2023
-The Mix & Match ML toolkit has been updated after the studies presented in the TEI paper. The version of the webinterface used in the two research studies can still be found [here](https://mixmatchmltoolkit.github.io/research/) as well the [source code](https://github.com/MixMatchMLtoolkit/MixMatchMLtoolkit.github.io/tree/main/research). 
+The Mix & Match ML toolkit has been updated since its publication in the TEI '23 paper (see the changes below). To proceed to the latest version, click [here](https://mixmatchmltoolkit.github.io/). If you want to access the previous version described in the TEI'23 paper, please [contact us](mailto:a.jansen@tue.nl).
+
 
 <b>Summary of changes to the current version (21/11/2022)</b>
 <ul>
@@ -48,11 +50,11 @@ The Mix & Match ML toolkit has been updated after the studies presented in the T
 </ul>
 
 ## Work in progess
-We are still working on improving toolkit. Currenlty we are working on including/ optimizing the following aspects:
+We are still working on improving the toolkit. Currently, we are including/optimizing the following aspects
 <ul>
-<li>Improving the reliablity of the compare modus </li>
-<li>Including interactive example ML models in the web interface</li>
-<li>Including instructions for how to achieve the examples using Weka </li>
+<li>Improving the reliablity of the "compare" mode </li>
+<li>Including interactive examples of ML models in the web interface</li>
+<li>Including instructions for how to use custom datasets to try out each ML capability in Weka </li>
 </ul>
 
 ## Contributors
@@ -60,7 +62,7 @@ The Mix & Match ML toolkit is developed by Anniek Jansen and dr. Sara Colombo at
 
 
 ## License
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">The Mix & Match Machine Learning toolkit</span> by <span property="cc:attributionName">Anniek Jansen and dr. Sara Colombo</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">The Mix & Match Machine Learning toolkit</span> by <span property="cc:attributionName">Anniek Jansen and Sara Colombo</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
 > **Warning**
 The toolkit showcases example applications, these examples and their images do <b>NOT</b> fall under the above mentioned license, but belong to the copyright owner.
