@@ -29,7 +29,7 @@ Instructions and files for making your own toolkit can be found [here](https://g
 The Mix & Match ML toolkit has been updated since its publication in the TEI '23 paper (see the changes below). To proceed to the latest version, click [here](https://mixmatchmltoolkit.github.io/). If you want to access the previous version described in the TEI'23 paper, please [contact us](mailto:a.jansen@tue.nl).
 
 
-<b>Summary of changes to the current version (21/11/2022)</b>
+<b>Summary of changes to the current version (02/02/2023)</b>
 <ul>
 <li>Option to choose for educational mode or minimal mode (some information collapsed) </li>
 <li>Disclaimers on each page that data, models and examples are from the public domain and might contain biases </li>
