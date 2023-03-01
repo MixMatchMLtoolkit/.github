@@ -19,7 +19,7 @@ The web interface can also be used without a toolkit. In that case you can press
 ## Open source toolkit
 All the required files needed to make your own set of tokens and sensing board are open source. You can find instructions on how to build your Mix&Match ML toolkit below. The code for the web interface is also open source and can be found in this repository. That means you can personalize the contents and examples in the toolkit. When no changes are needed to the code, you can just make your own sensing board and connect it to the web interface that is already online.
 
-Please note that this toolkit is shared under CC license (CC BY-NC-SA 4.0). If you use or adapt this toolkit, we would like to hear about your experience, please get in touch!
+Please note that this toolkit is shared under CC license (CC BY-NC-SA 4.0). If you use or adapt this toolkit, we would like to hear about your experience, please get in [touch](mailto:a.jansen@tue.nl)!
 
 ### Instructions
 Instructions and files for making your own toolkit can be found [here](https://github.com/MixMatchMLtoolkit/DIY-toolkit)
@@ -34,8 +34,8 @@ The Mix & Match ML toolkit has been updated since its publication in the TEI '23
 <li>Option to choose for educational mode or minimal mode (some information collapsed) </li>
 <li>Disclaimers on each page that data, models and examples are from the public domain and might contain biases </li>
 <li>New images for all data types </li>
-<li>Data page layout revised: short explanation with additonal more information </li>
-<li>ML capablity  page layout revised: order capabilities & limitations and examples switched </li>
+<li>Data page layout revised: short explanation with additional more information </li>
+<li>ML capability  page layout revised: order capabilities & limitations and examples switched </li>
 <li>Definition categorize and identify updated to include examples for clarification </li>
 <li>Example application Image + Categorize updated from Google Lens to ObsIdentify  </li>
 <li>Example application Image + Foresee updated from LikelyAI (offline) to FloodHub </li>
@@ -44,21 +44,24 @@ The Mix & Match ML toolkit has been updated since its publication in the TEI '23
 <li>Examples applications added for Table + Communicate, Table + Understand and Table + Translate </li>
 <li>New images for some copyrighted images</li>
 
-<li>Addition of a tangible connector token with whiteboard top that can connect two ML capabilties </li>
+<li>Addition of a tangible connector token with whiteboard top that can connect two ML capabilities </li>
 <li><i>A compare modus for the sensing board (not yet fully functional, see work in progress)</i> </li>
 
 </ul>
 
-## Work in progess
+## Work in progress
 We are still working on improving the toolkit. Currently, we are including/optimizing the following aspects
 <ul>
-<li>Improving the reliablity of the "compare" mode </li>
+<li>Improving the reliability of the "compare" mode </li>
 <li>Including interactive examples of ML models in the web interface</li>
 <li>Including instructions for how to use custom datasets to try out each ML capability in Weka </li>
 </ul>
 
 ## Contributors
 The Mix & Match ML toolkit is developed by Anniek Jansen and dr. Sara Colombo at the Eindhoven University of Technology.
+
+## Reference
+Anniek Jansen and Sara Colombo. 2023. Mix &amp; Match Machine Learning: An Ideation Toolkit to Design Machine Learning-Enabled Solutions. In Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '23). Association for Computing Machinery, New York, NY, USA, Article 8, 1–18. https://doi.org/10.1145/3569009.3572739
 
 
 ## License
