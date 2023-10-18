@@ -43,8 +43,9 @@ The Mix & Match ML toolkit has been updated since its publication in the TEI '23
 <li>Example application Image + translate updated from Deepart (offline) to Deep dream generator </li>
 <li>Examples applications added for Table + Communicate, Table + Understand and Table + Translate </li>
 <li>New images for some copyrighted images</li>
+<li>Interactive examples for some combinations of data and ML capabilities</li>
 
-<li>Addition of a tangible connector token with whiteboard top that can connect two ML capabilities </li>
+<li>Addition of a tangible connector token with a whiteboard top that can connect two ML capabilities </li>
 <li><i>A compare modus for the sensing board (not yet fully functional, see work in progress)</i> </li>
 
 </ul>
@@ -53,15 +54,14 @@ The Mix & Match ML toolkit has been updated since its publication in the TEI '23
 We are still working on improving the toolkit. Currently, we are including/optimizing the following aspects
 <ul>
 <li>Improving the reliability of the "compare" mode </li>
-<li>Including interactive examples of ML models in the web interface</li>
 <li>Including instructions for how to use custom datasets to try out each ML capability in Weka </li>
 </ul>
 
 ## Contributors
-The Mix & Match ML toolkit is developed by Anniek Jansen and dr. Sara Colombo at the Eindhoven University of Technology.
+The Mix & Match ML toolkit is developed by Anniek Jansen (Eindhoven University of Technology) and dr. Sara Colombo (Delft University of Technology).
 
 ## Reference
-Anniek Jansen and Sara Colombo. 2023. Mix &amp; Match Machine Learning: An Ideation Toolkit to Design Machine Learning-Enabled Solutions. In Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '23). Association for Computing Machinery, New York, NY, USA, Article 8, 1–18. https://doi.org/10.1145/3569009.3572739
+Anniek Jansen and Sara Colombo. 2023. Mix & Match Machine Learning: An Ideation Toolkit to Design Machine Learning-Enabled Solutions. In Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '23). Association for Computing Machinery, New York, NY, USA, Article 8, 1–18. https://doi.org/10.1145/3569009.3572739
 
 
 ## License
